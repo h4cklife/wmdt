@@ -12,7 +12,7 @@
 ## Install
 
 ```
-$ git clone https://github.com/dbe-5/wmdt.git
+$ git clone https://github.com/h4cklife/wmdt.git
 $ cd wifimassdeauth
 $ chmod +x wifimassdeauth.py
 ```
