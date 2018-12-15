@@ -13,8 +13,8 @@
 
 ```
 $ git clone https://github.com/h4cklife/wmdt.git
-$ cd wifimassdeauth
-$ chmod +x wifimassdeauth.py
+$ cd wmdt/
+$ chmod +x wmdt.py
 ```
 
 
@@ -28,6 +28,6 @@ $ airodump-ng wlan0mon
 Note the channel and bssid you want to attack
 
 ```
-$ ./wifimassdeauth.py
+$ ./wmdt.py
 ```
 
